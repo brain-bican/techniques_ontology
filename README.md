@@ -2,9 +2,7 @@
 ![Build Status](https://github.com/brain-bican/bito/workflows/CI/badge.svg)
 # BICAN Techniques Ontology
 
-Description: None
-
-More information can be found at http://obofoundry.org/ontology/bito
+Description: This is the developers repository for a techniques and methods ontology to support work in the BRAIN Initiative Cell Atlas Network (BICAN). The BICAN techniques ontology is designed to help scientists communicate about their experiments and results by defining a set of terms for techniques, methods, modalities, assays, devices, tools, and the like.
 
 ## Versions
 
@@ -12,9 +10,7 @@ More information can be found at http://obofoundry.org/ontology/bito
 
 The latest version of the ontology can always be found at:
 
-http://purl.obolibrary.org/obo/bito.owl
-
-(note this will not show up until the request has been approved by obofoundry.org)
+http://purl.brain-bican.org/ontology/bito.owl
 
 ### Editors' version
 

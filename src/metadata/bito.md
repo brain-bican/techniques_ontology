@@ -35,7 +35,7 @@ dependencies:
 
 tracker: https://github.com/brain-bican/bito/issues
 license:
-  url: http://creativecommons.org/licenses/by/3.0/
+  url: http://creativecommons.org/licenses/by/4.0/
   label: CC-BY
 activity_status: active
 ---
